@@ -6,6 +6,11 @@
 ##### SEA/J情報セキュリティ技術認定 基礎コース（CSBM）
 ##### インターネット検定 .com Master（ドットコムマスター）
 ##### Java™プログラミング能力認定試験 3級
+
+### 今後の目標
+
+### 使用言語
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **itc-25001/itc-25001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
