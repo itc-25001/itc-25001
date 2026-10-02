@@ -1,7 +1,11 @@
 # 荻堂拓哉 Takuya Ogido 
 ## ITスペシャリスト科　情報工学コース2年
 
-###
+### 取得資格一覧
+#### CompTIA IT Fundamentals（ITF+)
+#### SEA/J情報セキュリティ技術認定 基礎コース（CSBM）
+#### インターネット検定 .com Master（ドットコムマスター）
+#### Java™プログラミング能力認定試験 3級
 <!--
 **itc-25001/itc-25001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
