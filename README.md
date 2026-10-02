@@ -1,5 +1,7 @@
-## こんにちは ITスペシャリスト科情報工学2年の 👋
+# 荻堂拓哉 Takuya Ogido 
+## ITスペシャリスト科　情報工学コース2年
 
+###
 <!--
 **itc-25001/itc-25001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
