@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは ITスペシャリスト科情報工学2年の 👋
 
 <!--
 **itc-25001/itc-25001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
