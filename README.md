@@ -9,7 +9,7 @@
 ##### ・Java™プログラミング能力認定試験 3級
 
 ### 今後の目標
-oracle javaの資格を取って、それからDB、spring bootを参考書を使って学習していきたい。
+javaやDB、spring bootを参考書を使って学習して、ポートフォリオ作成頑張っていきたい。
 
 ### 使用言語やフレイムワーク
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
